@@ -1,6 +1,6 @@
 # Group Chat App Project
 
-## Project Discription : 
+## Project Description : 
 
 The project “Chat Room” aims at providing facilities to various organizations to help the members communicate through internet and form as many separate chat rooms as possible while also keeping in mind the visually impaired and letting them use it by giving a voice to text feature to help them send messages and receive them by using the text to voice option.
 
