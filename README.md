@@ -63,4 +63,7 @@ The project “Chat Room” aims at providing facilities to various organization
  <a ><img src="https://github.com/prateek11rai/prateek11rai/blob/main/Images/Screenshot_1623337737.png" alt="Android" height="500" style="vertical-align:top; margin:4px"></a>
 </p>
 
+## Contributors
+<a>https://github.com/naman1104</a>
+
 <br/>
