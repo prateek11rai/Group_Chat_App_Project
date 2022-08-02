@@ -64,6 +64,6 @@ The project “Chat Room” aims at providing facilities to various organization
 </p>
 
 ## Contributors
-<a>https://github.com/naman1104</a>
+<a>https://github.com/naman1104   </a>
 
 <br/>
